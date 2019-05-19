@@ -1,1 +1,1 @@
-def display
+def display_board
